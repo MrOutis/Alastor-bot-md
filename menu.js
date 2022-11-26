@@ -1,8 +1,8 @@
 const help = (p, date, user, wame) => {
-return `*Olá _@${user}_ bem vindo ao ✟🔥⃢⃟𝘼𝙇𝘼⃟𝙎𝙏𝙊𝙍 𝘽𝙊⃟𝙏🔥✟, vejo aqui que você assinou meu contrato então tem acesso ao menu, se quiser ver minhas redes sociais escreva o comandos ${p}sociais.*
+return `*Hola _@${user}_ Bienvenido  a ✟🔥𝗞𝗔𝗡𝗜𝗘𝗟 𝗢𝗨𝗧𝗜𝗦🔥✟*
 
 ╭┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅╮
-┋✟🔥⃢⃟𝘼𝙇𝘼⃟𝙎𝙏𝙊𝙍 𝘽𝙊⃟𝙏🔥✟
+┋✟🔥𝗞𝗔𝗡𝗜𝗘𝗟 𝗢𝗨𝗧𝗜𝗦🔥✟
 ┋  
 ┋ 🕐 𝐃𝐚𝐭𝐚: ${date}
 ┋ 🌎 𝐖𝐚𝐦𝐞: 
@@ -363,37 +363,6 @@ return `*Olá _@${user}_ bem vindo ao ✟🔥⃢⃟𝘼𝙇𝘼⃟𝙎𝙏𝙊�
 ┋ ${p}affect 
 ┋ ${p}ad 
 ╰┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅╯
-
-╭┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅╮
-┋  😈 𝙋𝙊𝙍𝙉𝙊 😈
-┋ ${p}nhentai ❮code❯
-┋ ${p}nsfw (1 or 0) 
-┋ ${p}randomhentai  
-┋ ${p}nsfwneko
-┋ ${p}public
-┋ ${p}orgy
-┋ ${p}pantsu
-┋ ${p}glasses
-┋ ${p}cuckold
-┋ ${p}thighs
-┋ ${p}pussy
-┋ ${p}ahegao
-┋ ${p}uniform
-┋ ${p}gangbang
-┋ ${p}tentacles
-┋ ${p}manga
-┋ ${p}incest
-┋ ${p}creampie
-┋ ${p}anal  
-┋ ${p}yuri 
-┋ ${p}hentainekogif    
-┋ ${p}nsfwfeet  
-┋ ${p}girlmasturbate 
-┋ ${p}eroneko
-┋ ${p}erokitsune 
-┋ ${p}spank
-╰┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅╯
-
 ╭┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅╮
 ┋   💱 𝙈𝙊𝙀𝘿𝘼 💱
 ┋ ${p}dolarhoje
